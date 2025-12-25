@@ -12,6 +12,8 @@ print(l)
 # m[0] = 0
 
 # l.insert(1, 899)
-l.extend
-
+m = [900, 1000, 1100]
+# l.extend(m)
+k = l + m
+print(k)
 print(l)
